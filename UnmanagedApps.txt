@@ -1,0 +1,17 @@
+firefox.exe
+BitTorrent.exe
+Spotify.exe
+Thunderbird.exe
+SpotifySetup.exe
+Signal.exe
+iTunes Installer.exe
+discord.exe
+EpicGamesLauncher.exe
+minecraft.exe
+roblox.exe
+Telegram.exe
+WhatsApp Installer.exe
+Facebook Installer.exe
+DuckDuckGo.exe
+brave.exe
+
