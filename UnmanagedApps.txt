@@ -14,4 +14,3 @@ WhatsApp Installer.exe
 Facebook Installer.exe
 DuckDuckGo.exe
 brave.exe
-
