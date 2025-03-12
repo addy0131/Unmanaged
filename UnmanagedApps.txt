@@ -1,16 +1,20 @@
 firefox.exe
+Firefox.exe
 BitTorrent.exe
-Spotify.exe
-Thunderbird.exe
-SpotifySetup.exe
 Signal.exe
 iTunes Installer.exe
 discord.exe
+Discord Installer.exe
 EpicGamesLauncher.exe
 minecraft.exe
 roblox.exe
 Telegram.exe
+Telegram Desktop Installer.exe
 WhatsApp Installer.exe
 Facebook Installer.exe
+Instagram Installer.exe
 DuckDuckGo.exe
 brave.exe
+Snapchat.exe
+tumblr.exe
+Tiktok.exe
