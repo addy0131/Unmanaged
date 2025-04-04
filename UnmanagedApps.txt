@@ -1,4 +1,3 @@
-firefox.exe
 Firefox.exe
 BitTorrent.exe
 Signal.exe
@@ -7,14 +6,28 @@ discord.exe
 Discord Installer.exe
 EpicGamesLauncher.exe
 minecraft.exe
+minecraft
 roblox.exe
 Telegram.exe
+telegram
 Telegram Desktop Installer.exe
 WhatsApp Installer.exe
+WhatsApp.Desktop
+whatsapp
 Facebook Installer.exe
+facebook
+Messenger.exe
+FacebookMessenger.exe
 Instagram Installer.exe
+Instagram
+instragram
 DuckDuckGo.exe
 brave.exe
 Snapchat.exe
+snapchat
 tumblr.exe
+tumblr
 Tiktok.exe
+tiktok
+Unigram
+
